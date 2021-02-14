@@ -68,3 +68,43 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# npm create-react-app sanitydemo
+
+# cd sanitydemo
+
+# npm start
+
+# --------------------------------
+
+# add cmd
+
+# nmp install -g @sanity/cli
+
+# sanity login
+
+# sanity init
+
+# cd studio
+
+# sanity start
+
+# --------------------------------
+
+# connect them
+
+# create a new file in scr client.js, used to talk to sanity
+
+# npm install @sanity/client
+
+# fill in client.js, so react to sanity is OK, next is sanity to react
+
+# from website go to project settings, add new CORS origin http://localhost:3000, as well as hosting url when the time comes
+
+#-----------------------------------
+
+# remove '/' from gitignore for modules
+
+# create new repo in git
+
+# follow instructions
