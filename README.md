@@ -107,4 +107,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # create new repo in git
 
-# follow instructions
+# follow the instructions, we just created the boilerplate stuff, now we'll add
+
+# git add .
+
+# git commit -m "adding in sanity studio"
+
+# git push origin main
